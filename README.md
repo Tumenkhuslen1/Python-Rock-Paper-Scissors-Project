@@ -1,1 +1,1 @@
-# Python-Project1
+# Python-Rock-Paper-Scissors-Project
